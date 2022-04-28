@@ -1,0 +1,7 @@
+Anotações do curso de Git e GitHub
+
+Link de download do Git: https://git-scm.com/downloads
+Instalar com GitBash e GitGUI marcados
+
+GitBash é o terminal extendido para otimizar o uso do GIT.
+GitGUI é por uso de uma interface.
